@@ -1,3 +1,9 @@
+# Este repositório é uma reorganização dos diretório para compreensão dos conceitos de DDD, ensinados no bootcamp Decola Dev Avanade feito na Digital
+# Innovation One, não sendo o código Fonte de autorio do dono do respositório mas sim do expert que propos a atividade.
+
+
+
+
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
 # What is Aurora project?
