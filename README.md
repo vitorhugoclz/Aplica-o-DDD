@@ -1,5 +1,4 @@
-# Este repositório é uma reorganização dos diretório para compreensão dos conceitos de DDD, ensinados no bootcamp Decola Dev Avanade feito na Digital
-# Innovation One, não sendo o código Fonte de autorio do dono do respositório mas sim do expert que propos a atividade.
+# Este repositório é uma reorganização dos diretório para compreensão dos conceitos de DDD, ensinados no bootcamp Decola Dev Avanade feito na Digital Innovation One, não sendo o código Fonte de autorio do dono do respositório mas sim do expert que propos a atividade.
 
 
 
